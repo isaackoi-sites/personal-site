@@ -22,8 +22,8 @@ title: Isaac Koi
 email: isaackoi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   UFOs, skepticism, science, and other topics of interest to Isaac Koi.
-baseurl: "/ufo-countries-site" # the subpath of the organization Pages project site
-url: "https://branchoria-sites.github.io" # the Pages host for this preserved public site
+baseurl: "/personal-site" # the subpath of the organization Pages project site
+url: "https://isaackoi-sites.github.io" # the Pages host for this public site
 twitter_username: isaackoi
 github_username:  isaackoi
 
